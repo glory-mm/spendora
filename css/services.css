@@ -1,0 +1,25 @@
+#paragraph{
+    font-weight: bold;
+}
+
+#customer{
+    background-color: beige;
+    margin: 80px;
+    padding: 30px;
+    border-radius: 10px;
+
+
+}
+
+#main{
+  display: flex;
+}
+
+.one{
+    background-color: rgb(28, 54, 63);
+    margin-left: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(161, 183, 201);
+}
